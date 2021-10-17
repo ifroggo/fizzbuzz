@@ -1,7 +1,3 @@
-
-
-
-
 def fizzBuzz(number):
     output = ""
     if(number % 3 == 0):
